@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -47,16 +46,16 @@ function App() {
             <h3> Skills </h3>
             <table cellspacing="10"> 
                 <tr>
-                    <td>Snowboarding</td>
-                    <td>⭐⭐⭐⭐⭐</td>                                           
+                    <td>Snowboarding</td> 
+                    <td><span role ="img" aria-labelledby="jsx-a11y/accessible-emoji">⭐⭐⭐⭐⭐</span></td>                                          
                     <td>Surfing</td>
-                    <td>⭐⭐⭐</td>   
+                    <td><span role ="img" aria-labelledby="jsx-a11y/accessible-emoji">⭐⭐⭐</span></td>  
                 </tr>                        
                 <tr>                                                           
                     <td>Mountain Biking</td> 
-                    <td>⭐⭐⭐⭐</td> 
+                    <td><span role ="img" aria-labelledby="jsx-a11y/accessible-emoji">⭐⭐⭐⭐⭐</span></td> 
                     <td>Web Development</td>
-                    <td>⭐⭐</td>                           
+                    <td><span role ="img" aria-labelledby="jsx-a11y/accessible-emoji">⭐</span></td>                          
                 </tr>                    
             </table>
        
