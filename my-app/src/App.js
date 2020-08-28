@@ -24,7 +24,7 @@ function App() {
               </p>
               <p>
                 Learning how to create a website using HTML to start with. Learn
-                CSS and Javascript further down the track.
+                CSS and Javascript further down the track. ol
               </p>
             </td>
           </tr>
